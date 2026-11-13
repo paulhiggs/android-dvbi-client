@@ -2,6 +2,10 @@
 
 An Android starter client for DVB-I service discovery and broadband playback.
 
+## Acknowledgements
+
+Created with assistance from GitHub Copilot, an AI coding assistant.
+
 ## Current functionality
 
 - Load a DVB-I ServiceList document from a user-provided HTTP(S) URL.
